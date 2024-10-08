@@ -3,7 +3,7 @@ const Footer = () => {
     <>
       <section className="container-fluid">
         <div className="container">
-          <div className="d-flex align-items-center justify-content-between pt-3 pb-2">
+          <div className="d-flex flex-column flex-md-row align-items-center justify-content-between pt-3 pb-2">
             <div className="d-flex gap-2">
               <p
                 style={{
