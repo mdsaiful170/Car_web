@@ -9,7 +9,7 @@ import FilterSearch from './componets/FilterSearch';
 import Brand from './componets/Brand';
 import Review from './componets/Review';
 import Footer from './componets/Footer';
-import Location from './componets/location';
+import Location from './componets/Location';
 
 
 function App() {
