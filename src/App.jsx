@@ -8,8 +8,8 @@ import Tranding from './componets/Tranding';
 import FilterSearch from './componets/FilterSearch';
 import Brand from './componets/Brand';
 import Review from './componets/Review';
-import Location from './componets/location';
 import Footer from './componets/Footer';
+import Location from './componets/location';
 
 
 function App() {
